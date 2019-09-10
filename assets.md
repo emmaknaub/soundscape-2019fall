@@ -10,8 +10,6 @@
   - maybe make it sound echoey 
 #### Professor
   - record friend's voice (with permission) or my own to sound like a professor
-#### Clock Ticking
-  - I could probably either record this myself or just use an existing sound clip
 #### Chairs 
   - record the sounds of chairs scraping against the ground (people sitting down/getting up)
 #### Phone Sounds
@@ -24,4 +22,6 @@
   - get from a website like soundsnap.com
 #### Music
   - maybe use some upbeat/funky sounding music in the beginning to give it a comedic feel
+#### Clock Ticking
+  - sound clip (https://freesound.org/people/Tetrisrocker/sounds/458627/)
 
