@@ -21,3 +21,7 @@
 ## Repurposed Assets
 #### Harp Sound
   - to indicate daydreaming??
+  - get from a website like soundsnap.com
+#### Music
+  - maybe use some upbeat/funky sounding music in the beginning to give it a comedic feel
+
